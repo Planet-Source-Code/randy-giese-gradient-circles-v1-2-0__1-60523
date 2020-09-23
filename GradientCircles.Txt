@@ -1,0 +1,18 @@
+
+Purpose:
+I wrote GradientCircles a few years ago as part of a larger project.  It has always been one of my favorite Graphics programs.  But then I'm a sucker for colorful random graphics.  I've seen some other interesting graphic displays on PSC that are based on a specific formula or pattern, so that once you see it.... you've seen it.  In other words, it does one thing nicely, but that's the only thing it can do.
+GradientCircles is my example of just the opposite.  It is colorful and always changing.  The colors of the circles are always different, the circle size always changes and sometimes the circle builds from the center out and other times it shrinks from the outer edge to the center.
+
+Inputs:
+Left Click to Pause the program.
+Right Click to open the Speed Control.
+Double Click to End the program.
+
+Returns:
+Nice looking Gradient graphics.
+
+Side Effects:
+Due to the random selection of the colors, sometimes the color range is very small.  This results in a circle that appears to be one solid color.  It's not really a problem, just a 'Side Effect'.
+
+Assumptions:
+None.
